@@ -1,0 +1,12 @@
+.fixeds{
+    position: fixed;
+    top:50%;
+    left:0;
+  width:30px;
+  background-color: grey;
+}
+.fixeds div a{
+    color:white;
+    padding-left: 5px;
+    font-size: 20px;
+}
