@@ -14,11 +14,11 @@ const Container4 = () => {
           <h3>Keep up-to-date with Jagannath Temple</h3>
           <Form className='pt-5'>
             <Row className='align-items-center'>
-              <Col xs={12} md={8} className='w-50'>
+              <Col xs={12} md={8} >
                 <Form.Control type="email" placeholder="name@example.com" />
               </Col>
               <Col xs={12} md={4}>
-                <Button variant="primary" block>
+                <Button variant="primary" >
                  Send me
                 </Button>
               </Col>

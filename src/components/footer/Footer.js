@@ -6,7 +6,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 
 const Footer = () => {
   return (
-    <Container fluid >
+    <Container fluid className='p-0'>
       <footer className="text-center text-lg-start text-white" style={{background:'linear-gradient(to right, grey,lightgrey)'}}>
 
         {/* Grid container */}

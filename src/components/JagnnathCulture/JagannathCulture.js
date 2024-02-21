@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-const AboutUs = () => {
+const JagannathCulture= () => {
   return (
     <div>
       <h2>About Us</h2>
@@ -12,4 +12,4 @@ const AboutUs = () => {
   );
 };
 
-export default AboutUs;
+export default JagannathCulture;

@@ -1,0 +1,11 @@
+.bg-image{
+    background: url('https://img.freepik.com/free-vector/floral-frame-mobile-phone-background_53876-99816.jpg?size=626&ext=jpg&ga=GA1.1.939676640.1694439069&semt=ais');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 25px;
+}
+p{
+    padding: 10px;
+}
